@@ -1,0 +1,13 @@
+{
+  "name": "get-all-wikilinks-inside-markdown-file",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simplesmente pega todos os wikilinks dentro de arquivos markdown. Os wikilinks são identificados através de palavras cercadas por dois pares de colchetes.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
